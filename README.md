@@ -9,6 +9,7 @@ Able to Run the code which is able to print out
 | O | O | O | X | X | X |
 +---+---+---+---+---+---+
 As this outcome show it proves who ever gets this is the winner of the game
+So the purpose of the my code is to play the game up to 10 matches after 10 games are played it shows the top 10 results with the players name how may steps taken and the date and time as well.
 
 
 Requirements
